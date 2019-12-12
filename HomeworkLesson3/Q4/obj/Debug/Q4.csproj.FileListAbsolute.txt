@@ -1,0 +1,6 @@
+D:\Coding.Net\HomeworkLesson3\Q4\bin\Debug\Q4.exe.config
+D:\Coding.Net\HomeworkLesson3\Q4\bin\Debug\Q4.exe
+D:\Coding.Net\HomeworkLesson3\Q4\bin\Debug\Q4.pdb
+D:\Coding.Net\HomeworkLesson3\Q4\obj\Debug\Q4.csprojAssemblyReference.cache
+D:\Coding.Net\HomeworkLesson3\Q4\obj\Debug\Q4.exe
+D:\Coding.Net\HomeworkLesson3\Q4\obj\Debug\Q4.pdb

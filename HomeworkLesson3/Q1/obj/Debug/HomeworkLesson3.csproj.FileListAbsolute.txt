@@ -1,0 +1,6 @@
+D:\Coding.Net\HomeworkLesson3\HomeworkLesson3\obj\Debug\HomeworkLesson3.csprojAssemblyReference.cache
+D:\Coding.Net\HomeworkLesson3\HomeworkLesson3\bin\Debug\HomeworkLesson3.exe.config
+D:\Coding.Net\HomeworkLesson3\HomeworkLesson3\bin\Debug\HomeworkLesson3.exe
+D:\Coding.Net\HomeworkLesson3\HomeworkLesson3\bin\Debug\HomeworkLesson3.pdb
+D:\Coding.Net\HomeworkLesson3\HomeworkLesson3\obj\Debug\HomeworkLesson3.exe
+D:\Coding.Net\HomeworkLesson3\HomeworkLesson3\obj\Debug\HomeworkLesson3.pdb

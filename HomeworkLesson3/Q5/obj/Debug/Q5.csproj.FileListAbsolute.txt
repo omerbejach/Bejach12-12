@@ -1,0 +1,5 @@
+D:\Coding.Net\HomeworkLesson3\Q5\bin\Debug\Q5.exe.config
+D:\Coding.Net\HomeworkLesson3\Q5\bin\Debug\Q5.exe
+D:\Coding.Net\HomeworkLesson3\Q5\bin\Debug\Q5.pdb
+D:\Coding.Net\HomeworkLesson3\Q5\obj\Debug\Q5.exe
+D:\Coding.Net\HomeworkLesson3\Q5\obj\Debug\Q5.pdb
